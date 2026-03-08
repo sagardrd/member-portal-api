@@ -1,0 +1,30 @@
+2026-03-08T09:53:24.039+05:30  INFO 10792 --- [JAWS] [restartedMain] com.jaws.app.JawsApplication             : Starting JawsApplication using Java 17.0.10 with PID 10792 (D:\Sagar\Learning\Dev\JAWS Project\demo\target\classes started by Sagar in D:\Sagar\Learning\Dev\JAWS Project\demo)
+2026-03-08T09:53:24.058+05:30  INFO 10792 --- [JAWS] [restartedMain] com.jaws.app.JawsApplication             : No active profile set, falling back to 1 default profile: "default"
+2026-03-08T09:53:24.153+05:30  INFO 10792 --- [JAWS] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-03-08T09:53:25.787+05:30  INFO 10792 --- [JAWS] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-03-08T09:53:25.811+05:30  INFO 10792 --- [JAWS] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-08T09:53:25.812+05:30  INFO 10792 --- [JAWS] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-08T09:53:25.874+05:30  INFO 10792 --- [JAWS] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1720 ms
+2026-03-08T09:53:26.643+05:30  INFO 10792 --- [JAWS] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-03-08T09:53:26.651+05:30  INFO 10792 --- [JAWS] [restartedMain] com.jaws.app.JawsApplication             : Started JawsApplication in 3.251 seconds (process running for 3.904)
+2026-03-08T09:53:48.264+05:30  INFO 10792 --- [JAWS] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-08T09:53:48.266+05:30  INFO 10792 --- [JAWS] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-03-08T09:53:48.271+05:30  INFO 10792 --- [JAWS] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2026-03-08T09:53:48.505+05:30  INFO 10792 --- [JAWS] [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-03-08T09:53:49.895+05:30  INFO 10792 --- [JAWS] [http-nio-8080-exec-1] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@24f888f5
+2026-03-08T09:53:49.906+05:30  INFO 10792 --- [JAWS] [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-03-08T10:04:44.454+05:30  INFO 4928 --- [JAWS] [restartedMain] com.jaws.app.JawsApplication             : Starting JawsApplication using Java 17.0.10 with PID 4928 (D:\Sagar\Learning\Dev\JAWS Project\member-portal-spring-boot\target\classes started by Sagar in D:\Sagar\Learning\Dev\JAWS Project\member-portal-spring-boot)
+2026-03-08T10:04:44.459+05:30  INFO 4928 --- [JAWS] [restartedMain] com.jaws.app.JawsApplication             : No active profile set, falling back to 1 default profile: "default"
+2026-03-08T10:04:44.538+05:30  INFO 4928 --- [JAWS] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-03-08T10:04:46.117+05:30  INFO 4928 --- [JAWS] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-03-08T10:04:46.141+05:30  INFO 4928 --- [JAWS] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-08T10:04:46.143+05:30  INFO 4928 --- [JAWS] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-08T10:04:46.242+05:30  INFO 4928 --- [JAWS] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1703 ms
+2026-03-08T10:04:46.990+05:30  INFO 4928 --- [JAWS] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-03-08T10:04:47.000+05:30  INFO 4928 --- [JAWS] [restartedMain] com.jaws.app.JawsApplication             : Started JawsApplication in 3.14 seconds (process running for 3.827)
+2026-03-08T10:06:18.174+05:30  INFO 4928 --- [JAWS] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-08T10:06:18.176+05:30  INFO 4928 --- [JAWS] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-03-08T10:06:18.183+05:30  INFO 4928 --- [JAWS] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2026-03-08T10:06:18.397+05:30  INFO 4928 --- [JAWS] [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-03-08T10:06:19.614+05:30  INFO 4928 --- [JAWS] [http-nio-8080-exec-1] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@48bf0ac9
+2026-03-08T10:06:19.623+05:30  INFO 4928 --- [JAWS] [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
